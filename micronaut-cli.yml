@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: rajshreerairepository
+---
+testFramework: junit
+sourceLanguage: java
