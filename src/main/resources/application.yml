@@ -2,9 +2,6 @@
 micronaut:
   application:
     name: rajshreerairepository
-
----
-datasources.default: {}
 ---
 datasources:
   default:
